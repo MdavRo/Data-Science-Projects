@@ -7,6 +7,6 @@ This repository showcases my recent data science projects and the skills and too
 
 ## Overview
 
-- Various data analysis and machine learning projects
+- Exploratory Data Analysis
 - Visualization of data insights
 - Implementation of different algorithms and techniques
