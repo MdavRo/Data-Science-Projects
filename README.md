@@ -5,7 +5,7 @@
 
 This repository showcases my recent data science projects and the skills and tools I have learned. Each project includes a description of the problem tackled, the methods used, and the results obtained.
 
-## Features
+## Overview
 
 - Various data analysis and machine learning projects
 - Visualization of data insights
