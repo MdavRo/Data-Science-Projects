@@ -10,8 +10,3 @@ This repository showcases my recent data science projects and the skills and too
 - Various data analysis and machine learning projects
 - Visualization of data insights
 - Implementation of different algorithms and techniques
-
-"# Data-Science-Projects" 
-"# Data-Science-Projects" 
-"# Data-Science-Projects" 
-"# Data-Science-Projects" 
